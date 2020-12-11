@@ -1,0 +1,12 @@
+[package]
+name = "decouple"
+version = "0.1.0"
+authors = ["dalei <guoyunlei@live.com>"]
+edition = "2018"
+description = "Easier to manage your environment settings of variables"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/daleione/decouple.git"
+keywords = ["env"]
+
+[dependencies]
